@@ -1,3 +1,3 @@
 # tailwind-landing
 
-Landing page для изучения tailwind
+Landing page с использованием tailwind
